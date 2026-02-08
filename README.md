@@ -24,7 +24,7 @@ This project visualizes business data to help stakeholders understand store perf
 
 ## 🧠 Technologies Used
 
-*(Edit according to your tool)*
+
 
 * **Microsoft Excel / Power BI / Tableau** – For dashboard creation and visualization
 * **Pivot Tables & Pivot Charts** – For data aggregation
